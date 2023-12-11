@@ -13,7 +13,7 @@
     <div class="container">
         <nav class="navbar">
             <div class="left">
-                <img src="netflixlogo.png" alt="">
+                <img src="ntflx bharathintern/netflixlogo.png" alt="">
             </div>
             <div class="right">
                 <select name="language" class="language">
